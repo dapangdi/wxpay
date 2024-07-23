@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "wxpay",
+      "type": "com.hxc.config.WxPayProperties",
+      "sourceType": "com.hxc.config.WxPayProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wxpay.api-v3-key",
+      "type": "java.lang.String",
+      "sourceType": "com.hxc.config.WxPayProperties"
+    },
+    {
+      "name": "wxpay.app-id",
+      "type": "java.lang.String",
+      "sourceType": "com.hxc.config.WxPayProperties"
+    },
+    {
+      "name": "wxpay.mch-id",
+      "type": "java.lang.String",
+      "sourceType": "com.hxc.config.WxPayProperties"
+    },
+    {
+      "name": "wxpay.mch-serial-no",
+      "type": "java.lang.String",
+      "sourceType": "com.hxc.config.WxPayProperties"
+    },
+    {
+      "name": "wxpay.private-key",
+      "type": "java.lang.String",
+      "sourceType": "com.hxc.config.WxPayProperties"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,8 @@
+com\hxc\config\WxAutoConfiguration.class
+com\hxc\dtos\Amount$AmountBuilder.class
+com\hxc\dtos\NativePayParams.class
+com\hxc\dtos\NativePayParams$NativePayParamsBuilder.class
+com\hxc\dtos\Amount.class
+META-INF\spring-configuration-metadata.json
+com\hxc\config\WxPayProperties.class
+com\hxc\core\WxPayTemplate.class
